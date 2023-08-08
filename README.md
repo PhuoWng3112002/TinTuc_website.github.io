@@ -60,8 +60,9 @@ API này sẽ có các tham số như sau:
 ![z4587139917285_2d290c821bac72b865f5f43e2769586a](https://github.com/PhuoWng3112002/TinTuc_website.github.io/assets/107473716/ee225f60-63e4-4265-b786-aeaef3c9e1c6)
  
 <h3>Hiển thị Todo List -Thêm mới Todo và Lưu dữ liệu vào LocalStorage </h3>
-![z4587139913446_d436c80e4b6387e3145889d4202ac684](https://github.com/PhuoWng3112002/TinTuc_website.github.io/assets/107473716/ccbb1d74-3cb6-4b27-bd74-83c4cc15df9f)
 
+![z4587139913446_d436c80e4b6387e3145889d4202ac684](https://github.com/PhuoWng3112002/TinTuc_website.github.io/assets/107473716/625d4981-291a-4aa9-9597-6244f26d329f)
 
 <h3>Thay đổi setting</h3>
-  ![z4587139913122_81bf52ac5bea40a275ed4921a4725cf9](https://github.com/PhuoWng3112002/TinTuc_website.github.io/assets/107473716/d24e20f6-963f-4509-97f8-f731c29109e3)
+ 
+![z4587139913122_81bf52ac5bea40a275ed4921a4725cf9](https://github.com/PhuoWng3112002/TinTuc_website.github.io/assets/107473716/dbbdc99f-1857-4d3e-9f40-1adc5f546551)
