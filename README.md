@@ -2,7 +2,7 @@
 https://github.com/PhuoWng3112002/TinTuc_website.github.io.git
 <h3>Chức năng Register</h3>
 
-![image](https://github.com/PhuoWng3112002/TinTuc_website.github.io/assets/107473716/085e61d9-23b1-4cc4-9ea9-fb94e03ecb34)
+![z4587139926173_933ce633c4586d804f7c9ae3b2203a58](https://github.com/PhuoWng3112002/TinTuc_website.github.io/assets/107473716/eab73012-c0a1-4fff-a1f5-93abfcce13d2)
 
 Để quản lý người dùng,tạo một mảng gọi là userArr, mảng này sẽ chứa các Instance được tạo từ Class User. Sau đó,lưu userArray này xuống localStorage, mỗi lần vào trang Register sẽ cần load lại userArr từ Localstorage.<br>
 <b>const KEY = "USER_ARRAY";<br>
